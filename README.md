@@ -16,3 +16,4 @@ Features
 --------
 
 * Log levels (DEBUG, INFO, TRACE, WARNING, ERROR, FATAL)
+* Simply uses fmt to println
